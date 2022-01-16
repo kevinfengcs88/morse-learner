@@ -1,6 +1,8 @@
 # Morse Learner
-https://user-images.githubusercontent.com/80129996/149639806-7dde14ef-8ecb-4059-b6be-c1f789047d00.mp4
+Morse Learner is a browser automation script built with [selenium](https://www.selenium.dev/) that helps you learn Morse code by translating your strings (created from the 26
+letters of the English alphabet) into Morse code sequences and then keying it on an online Morse code telegraph. 
 
+https://user-images.githubusercontent.com/80129996/149639806-7dde14ef-8ecb-4059-b6be-c1f789047d00.mp4
 
 ## How to use
 1. Star :star: this repo (definitely won't work if you don't) :3
