@@ -6,9 +6,9 @@ https://user-images.githubusercontent.com/80129996/149639806-7dde14ef-8ecb-4059-
 
 ## How to use
 1. Star :star: this repo (definitely won't work if you don't) :3
-2. Download the `.zip` file from this repository's file navigation and extract the `.exe` titled "MorseLearner.exe" (alternative: install the `.exe` from the [latest release](https://github.com/kevinfengcs88/morse-learner/releases/tag/v1.0))
+2. Download the `.zip` file from this repository's file navigation and extract the `.exe` titled `MorseLearner.exe` (alternative: install the `.exe` from the [latest release](https://github.com/kevinfengcs88/morse-learner/releases/tag/v1.0))
 3. Focus on the terminal and type in a string using characters from the 26 English letters
-4. Press `RETURN` to send your string
+4. Press `RETURN` to send your string to the bot
 5. Press "Clear" on the website to start the bot
 6. Repeat steps 3-6
 
